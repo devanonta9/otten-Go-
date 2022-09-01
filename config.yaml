@@ -1,0 +1,9 @@
+server:
+ address: ":8099"
+data:
+  url: "https://gist.githubusercontent.com/nubors/eecf5b8dc838d4e6cc9de9f7b5db236f/raw/d34e1823906d3ab36ccc2e687fcafedf3eacfac9/jne-awb.html"
+message:
+  errorCode: "060102"
+  successCode: "060101"
+  errorText: "Failed to fetch delivery tracking detail"
+  successText: "Delivery tracking detail fetched successfully"
