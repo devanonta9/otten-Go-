@@ -23,4 +23,7 @@ The default are: <br /><br />
   ```errorCode: "060102"``` <br />
   ```successCode: "060101"``` <br />
   ```errorText: "Failed to fetch delivery tracking detail"``` <br />
-  ```successText: "Delivery tracking detail fetched successfully"```
+  ```successText: "Delivery tracking detail fetched successfully"``` <br />
+
+  # Collection
+  Postman API collection = ```https://www.getpostman.com/collections/1d2fcd25bdf7100a1507``` <br />
